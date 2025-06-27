@@ -124,8 +124,7 @@ Save the project as .pbix
 
 
 
-
-
+![Image alt](https://github.com/VaishnaviGhorpade99/Sales_Distribution_Analysis/blob/main/Dashboard%20Picture.png?raw=true)
 
 
 
