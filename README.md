@@ -43,6 +43,11 @@ sales.ProductID → products.ProductID
 
 sales.OrderDate → date.Date
 
+![image alt](https://raw.githubusercontent.com/VaishnaviGhorpade99/Sales_Distribution_Analysis/4bdeb182ec633110ed794ec4fb627217c401f169/Relationships..png)
+
+
+
+
 📌 **Key Measures (DAX)**
 
 Total Sales:
