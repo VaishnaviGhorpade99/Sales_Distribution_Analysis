@@ -123,7 +123,10 @@ Save the project as .pbix
 └── README.md
 
 
+
+
 📸 **Dashboard Preview**
+
 
 
 ![Image alt](https://github.com/VaishnaviGhorpade99/Sales_Distribution_Analysis/blob/main/Dashboard%20Picture.png?raw=true)
